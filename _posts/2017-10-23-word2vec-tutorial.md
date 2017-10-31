@@ -291,6 +291,7 @@ n 是 vocabulary_size，假設有個文本的 vocabulary_size 是 10000，可以
 * word2vec paper
   * Mikolov, Tomas, et al. "Efficient estimation of word representations in vector space." arXiv preprint arXiv:1301.3781 (2013).
   * Mikolov, Tomas, et al. "Distributed representations of words and phrases and their compositionality." Advances in neural information processing systems. 2013.
+* 感謝 [Aaron Chen](https://github.com/nailo2c) 當我第一個讀者還幫我偵錯 🙏
 
 # Appendix 
 
