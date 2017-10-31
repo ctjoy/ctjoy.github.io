@@ -151,7 +151,7 @@ $$ J = -\log \sigma(-x_{15}) $$
 
 所以
 
-$$ \frac{dJ}{dx_{15}} = \frac{d -\log \sigma(-x_{15})}{dx_{15}} = - \frac{1}{\sigma(-x_{15})} \sigma(-x_{15}) (1 - \sigma(-x_{15})) = \sigma(-x_{15}) - 1 = \sigma(x_{15})$$
+$$ \frac{dJ}{dx_{15}} = \frac{d -\log \sigma(-x_{15})}{dx_{15}} = - \frac{1}{\sigma(-x_{15})} \sigma(-x_{15}) (1 - \sigma(-x_{15})) = 1 - \sigma(-x_{15}) = \sigma(x_{15})$$
 
 最終得到
 
